@@ -1,0 +1,10 @@
+C:\Users\123\Desktop\Quantify\Quantify\bin\Debug\Quantify.exe.config
+C:\Users\123\Desktop\Quantify\Quantify\bin\Debug\Quantify.exe
+C:\Users\123\Desktop\Quantify\Quantify\bin\Debug\Quantify.pdb
+C:\Users\123\Desktop\Quantify\Quantify\bin\Debug\Leaf.xNet.xml
+C:\Users\123\Desktop\Quantify\Quantify\obj\Debug\Quantify.csproj.AssemblyReference.cache
+C:\Users\123\Desktop\Quantify\Quantify\obj\Debug\Quantify.csproj.SuggestedBindingRedirects.cache
+C:\Users\123\Desktop\Quantify\Quantify\obj\Debug\Quantify.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\Quantify\Quantify\obj\Debug\Quantify.csproj.CopyComplete
+C:\Users\123\Desktop\Quantify\Quantify\obj\Debug\Quantify.exe
+C:\Users\123\Desktop\Quantify\Quantify\obj\Debug\Quantify.pdb

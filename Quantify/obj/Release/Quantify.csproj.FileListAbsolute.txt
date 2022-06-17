@@ -1,0 +1,16 @@
+C:\Users\123\Desktop\Quantify2\Quantify\obj\Release\Quantify.csproj.AssemblyReference.cache
+C:\Users\123\Desktop\Quantify2\Quantify\obj\Release\Quantify.csproj.SuggestedBindingRedirects.cache
+C:\Users\123\Desktop\Quantify2\Quantify\obj\Release\Quantify.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\Quantify2\Quantify\obj\Release\Quantify.exe
+C:\Users\123\Desktop\Quantify2\Quantify\obj\Release\Quantify.pdb
+C:\Users\123\Desktop\Quantify2\Quantify\bin\Release\Quantify.exe.config
+C:\Users\123\Desktop\Quantify2\Quantify\bin\Release\Quantify.exe
+C:\Users\123\Desktop\Quantify2\Quantify\bin\Release\Quantify.pdb
+C:\Users\123\Desktop\Quantify2\Quantify\bin\Release\CaptchaSharp.dll
+C:\Users\123\Desktop\Quantify2\Quantify\bin\Release\CaptchaSharp.Services.More.dll
+C:\Users\123\Desktop\Quantify2\Quantify\bin\Release\DiscordRPC.dll
+C:\Users\123\Desktop\Quantify2\Quantify\bin\Release\Newtonsoft.Json.dll
+C:\Users\123\Desktop\Quantify2\Quantify\bin\Release\DiscordRPC.pdb
+C:\Users\123\Desktop\Quantify2\Quantify\bin\Release\DiscordRPC.xml
+C:\Users\123\Desktop\Quantify2\Quantify\bin\Release\Newtonsoft.Json.xml
+C:\Users\123\Desktop\Quantify2\Quantify\obj\Release\Quantify.csproj.CopyComplete
